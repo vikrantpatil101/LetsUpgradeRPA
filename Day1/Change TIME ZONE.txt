@@ -1,0 +1,7 @@
+1	Object Cloning: Click On Pane "CPCategoryPanel" in window 'Control Panel'; Click Type: Left Click; Source: Window; Play Type: Object
+2	Object Cloning: Click On Link "Change the time zone" in window 'Clock and Region'; Click Type: Left Click; Source: Window; Play Type: Object
+3	Object Cloning: Click On PushButton "Change time zone..." in window 'Date and Time'; Click Type: Left Click; Source: Window; Play Type: Object
+4	Object Cloning: Click On ComboBox "Time zone:" in window 'Time Zone Settings'; Click Type: Left Click; Source: Window; Play Type: Object
+5	Object Cloning: Select Item By Text "(UTC+05:30) Sri Jayawardenepura" of ListView "Time zone:" in window ''; Source: Window; Play Type: Object
+6	Object Cloning: Click On PushButton "OK" in window 'Time Zone Settings'; Click Type: Left Click; Source: Window; Play Type: Object
+7	Object Cloning: Click On PushButton "OK" in window 'Date and Time'; Click Type: Left Click; Source: Window; Play Type: Object
